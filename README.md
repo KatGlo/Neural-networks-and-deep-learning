@@ -1,8 +1,7 @@
 # Neural-networks-and-deep-learning
 A curated set of Jupyter notebooks exploring feed-forward networks, RBMs, autoencoders, CNNs, and advanced optimization methods, all designed to deepen understanding of neural networks and deep learning.
 
-# Neural Networks and Deep Learning – Notebook Collection
-
+## Description
 This repository contains laboratory exercises for the **"Neural Networks and Deep Learning"** course at AGH University in Krakow, Department of Computer Science. It includes practical exercises to help understand and implement various deep learning techniques. The course is designed to provide a comprehensive introduction to neural networks and deep learning, covering both theoretical concepts and practical applications. 
 
 ## Table of Contents
